@@ -4,6 +4,7 @@
     --link-color:#4B566A;
     --content-color:#E8E8D9;
     --h1-color:#828271;
+    --border-color:#C3C3AE;
     --shadow-color:#4a4a4a;
 }
 
@@ -58,7 +59,7 @@ footer{
 }
 
 .imagem{
-    border: 8px solid var(--menu-color);
+    border: 10px solid var(--border-color);
     border-radius: 10px;
     box-shadow: 5px 5px 5px var(--shadow-color);
 }
