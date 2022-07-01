@@ -11,9 +11,6 @@
 body{
     background: var(--main-color) url('/imagens/fundo.png');
     font: 16px arial, helvetica, sans-serif;
-}
-
-header{
     width: 900px;
     margin: auto;
 }
@@ -32,9 +29,7 @@ h1{
 
 main{
     background: var(--content-color);
-    width: 880px;
     padding: 10px;
-    margin: auto;
 }
 
 p{
